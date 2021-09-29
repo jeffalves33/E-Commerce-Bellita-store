@@ -1,0 +1,16 @@
+{
+  "name": "teste_portolio",
+  "version": "1.0.0",
+  "description": "testing some settings",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Jeferson Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

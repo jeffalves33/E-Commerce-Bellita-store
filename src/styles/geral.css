@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    text-align: center;
+    margin: 0;
+}
+.container-fluid{
+    padding: 0;
+    background-color: white;
+    height: 100vh;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 5px;
+    border-style: solid;
+    border-color: black;
+}

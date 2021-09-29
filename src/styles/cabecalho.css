@@ -1,0 +1,49 @@
+#cabecalho{
+    background-color: cadetblue;
+    width: 100vw;
+    align-items: center;
+    height: 45px;
+}
+#logo{
+    padding: 0;
+    display:flex;
+    align-items: center;
+}
+.logoImagem{
+    margin-left: 50px;
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    border-radius: 25px;
+}#logoNome{
+    margin-left: 10px;
+}#logoNome a{
+    color: white;
+}#logoNome a:hover{
+    color: black;
+    cursor: pointer;
+}
+
+#menu{
+    padding: 0;
+    justify-content: center;
+    width: 900px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+div li{
+    display: inline-block;
+    margin-left: 60px;
+    margin-right: 60px;
+}li a{
+    text-decoration: none;
+    color: white;
+}
+.color{
+    color: white;
+}.color:hover{
+    cursor: pointer;
+    color: black;
+}

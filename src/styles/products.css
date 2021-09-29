@@ -1,0 +1,11 @@
+#containerProducts{
+    margin: 0 20% 0 20%;
+}
+#produtoDad *{
+    padding: 0; 
+    margin: 0;
+}
+img{
+    height: 190px;
+    width: 190px;
+}
