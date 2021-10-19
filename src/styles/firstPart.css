@@ -1,4 +1,19 @@
 #body1{
-    position: relative;
-    margin: 20% 0 20% 0;
+    padding-top: 20%;
+}#body1 h2{
+    font-size: 60px;
+    font-family: fantasy;
+    font-style: oblique;
+}#body1 h3{
+    font-size: 40px;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+#wpp img{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 80px;
+    width: 80px;
 }

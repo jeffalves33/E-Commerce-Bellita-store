@@ -1,8 +1,10 @@
 #cabecalho{
     background-color: cadetblue;
-    width: 100vw;
     align-items: center;
-    height: 45px;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
 }
 #logo{
     padding: 0;
