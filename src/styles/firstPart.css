@@ -1,3 +1,8 @@
+@keyframes wpp{
+    from{top:0; left:0;}
+    to{top:580px; left:1280px;}  
+}
+
 #body1{
     padding-top: 20%;
 }#body1 h2{
@@ -11,9 +16,15 @@
 }
 
 #wpp img{
+    height: 65px;
+    width: 65px;
+}
+
+#wpp{
     position: fixed;
-    bottom: 10px;
-    right: 10px;
-    height: 80px;
-    width: 80px;
+    top: 580px; 
+    left: 1280px;
+
+    animation-name: wpp;
+    animation-duration: 3s;
 }
