@@ -21,9 +21,12 @@
     margin-left: 10px;
 }#logoNome a{
     color: white;
+    text-decoration: none;
 }#logoNome a:hover{
     color: black;
     cursor: pointer;
+    font-size: 26px;
+    transition: all 0.8s;
 }
 
 #menu{
@@ -48,4 +51,5 @@ div li{
 }.color:hover{
     cursor: pointer;
     color: black;
+    transition: all 0.8s;
 }

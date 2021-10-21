@@ -2,9 +2,15 @@
     from{top:0; left:0;}
     to{top:580px; left:1280px;}  
 }
+@keyframes frase{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
 
 #body1{
     padding-top: 20%;
+    animation-name: frase;
+    animation-duration: 3s;
 }#body1 h2{
     font-size: 60px;
     font-family: fantasy;
