@@ -2,6 +2,7 @@
     from{top:0; left:0;}
     to{top:580px; left:1280px;}  
 }
+/*
 @keyframes frase{
     from{opacity: 0;}
     to{opacity: 1;}
@@ -19,7 +20,7 @@
     font-size: 40px;
     font-family: fantasy;
     font-style: oblique;
-}
+}*/
 
 #wpp img{
     height: 65px;
